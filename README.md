@@ -1,4 +1,4 @@
-# PowerOptionsInstaller
+# Power Options Installer
 
 This program was created to restore missing Power Options in Control Panel
 
