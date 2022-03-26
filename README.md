@@ -16,7 +16,6 @@ __Edge__
 
 ![img4](https://i.imgur.com/8guOoWa.png)
 
-Done!
 
 __Google Chrome__
 
@@ -24,4 +23,3 @@ __Google Chrome__
 
 ![img6](https://i.imgur.com/BbuEnIm.png)
 
-Done!
