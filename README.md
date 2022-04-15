@@ -4,7 +4,7 @@ This program was created to restore missing Power Options in Control Panel.
 
 For more details, DM me on Discord - https://bit.ly/MakoPogDiscord (MakoPog#2505)
 
-Browsers are for some weird reason blocking the file. Remember, I will __NEVER__ upload viruses. These warnings are ofter and are called as "False positives". If you experience this, please follow the steps listed down below.
+Browsers are for some weird reason blocking the file. Remember, I will __NEVER__ upload viruses. These warnings are called as "False positives". If you experience this, please follow the steps listed down below.
 
 __Edge__
 
