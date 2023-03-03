@@ -1,5 +1,13 @@
 # Power Options Installer
 
+# PROJECT DISCONTINUED
+
+This repo is discontinued and won’t be updated.
+
+It is still possible to download the software, thus there is a high chance that it won’t work on your system.
+
+# About
+
 This program was created to restore missing Power Options in Control Panel.
 
 For more details, DM me on Discord - https://bit.ly/MakoPogDiscord (MakoPog#2505)
